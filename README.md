@@ -141,7 +141,7 @@ Rick and Morty,2013,9.2,414849,23
 
 ## 🧪 Terminal output :
 
-![terminal](Images/1.png)
+![terminal](Image/1.png)
 
 ## 📄 License
 
